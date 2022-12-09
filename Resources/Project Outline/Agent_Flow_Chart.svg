@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Agent_Flow_Chart.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="408.25"
+     inkscape:cy="194.75"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="-7"
+     inkscape:window-y="-7"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="266"
+       y="95.5"
+       width="13.5"
+       height="115"
+       id="rect31268" />
+    <rect
+       x="545.63152"
+       y="642.79881"
+       width="80.179952"
+       height="118.91099"
+       id="rect93237" />
+    <rect
+       x="183.46266"
+       y="298.2967"
+       width="360.8099"
+       height="111.43658"
+       id="rect43730" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text93235"
+       style="line-height:1.25;font-family:Arial;font-size:16px;-inkscape-font-specification:Arial;white-space:pre;shape-inside:url(#rect93237)" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.533906;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect300942-6"
+       width="39.742718"
+       height="6.4830279"
+       x="24.757439"
+       y="16.312284" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="39.677971"
+       y="20.590096"
+       id="text9752"><tspan
+         sodipodi:role="line"
+         id="tspan9750"
+         style="stroke-width:0.264583"
+         x="39.677971"
+         y="20.590096">Agent</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.533906;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect300942-6-4"
+       width="39.743"
+       height="6.4830279"
+       x="64.927597"
+       y="45.970985" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="74.82103"
+       y="50.381088"
+       id="text9752-5"><tspan
+         id="tspan9750-1"
+         style="stroke-width:0.264583"
+         x="74.82103"
+         y="50.381088"
+         sodipodi:role="line">Training Gym </tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.533906;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect300942-6-7"
+       width="39.742718"
+       height="6.4830279"
+       x="109.50988"
+       y="32.080357" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="113.97939"
+       y="36.490463"
+       id="text9752-2"><tspan
+         sodipodi:role="line"
+         id="tspan9750-6"
+         style="stroke-width:0.264583"
+         x="113.97939"
+         y="36.490463">Metrics Database</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.533906;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect300942-6-7-3"
+       width="39.742718"
+       height="6.4830279"
+       x="109.2453"
+       y="65.020981" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="124.29813"
+       y="69.827965"
+       id="text9752-2-8"><tspan
+         sodipodi:role="line"
+         id="tspan9750-6-5"
+         style="stroke-width:0.264583"
+         x="124.29813"
+         y="69.827965">GUI</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text31266"
+       style="line-height:1.25;font-family:Arial;font-size:16px;-inkscape-font-specification:Arial;white-space:pre;shape-inside:url(#rect31268)" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.533906;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect300942-6-7-2"
+       width="39.742718"
+       height="6.4830279"
+       x="25.372389"
+       y="75.868904" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="29.841894"
+       y="80.279007"
+       id="text9752-2-3"><tspan
+         sodipodi:role="line"
+         id="tspan9750-6-53"
+         style="stroke-width:0.264583"
+         x="29.841894"
+         y="80.279007">Game Wrapper</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 43.259375,76.2 C 64.927597,52.454014 64.927597,52.454014 64.927597,52.454014 v 0"
+       id="path37001" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 43.391666,23.283333 21.53593,22.687653"
+       id="path37036" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 104.67059,45.970986 4.83929,-7.407601"
+       id="path37151" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 129.11667,64.690624 128.5875,38.761458"
+       id="path37186" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 104.67059,52.454013 C 109.2453,65.02098 109.2453,65.02098 109.2453,65.02098"
+       id="path37256" />
+  </g>
+</svg>
